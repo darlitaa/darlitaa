@@ -4,7 +4,7 @@
 </h3>
 
 <div id="header" align="center">
-  <img src="https://img.freepik.com/premium-photo/cute-striped-kitten-gray-striped-kitten-playing-beige-cotton-plaid-little-cute-striped-fluffy-cat_221542-565.jpg" width="150"/>
+  <img src="https://img.freepik.com/premium-photo/cute-striped-kitten-gray-striped-kitten-playing-beige-cotton-plaid-little-cute-striped-fluffy-cat_221542-565.jpg" width="200"/>
 </div>
 
 <h2>&#127760; Social:</h2>
